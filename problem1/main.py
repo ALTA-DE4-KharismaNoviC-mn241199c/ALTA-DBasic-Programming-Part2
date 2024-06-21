@@ -1,5 +1,5 @@
-# input
-nama = "Kobar"
+#input
+name = "Kobar"
 
-
-# kode disini
+#output
+print("Hello" + name + "!" + "Saya Golang bahasa yang sangat menyenangkan")
